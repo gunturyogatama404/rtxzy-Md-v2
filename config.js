@@ -27,7 +27,7 @@ global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© AKIRAJIE'
 global.watermark = wm
-global.wm2 = '⫹⫺ AKIRAJIED'
+global.wm2 = '⫹⫺ AKIRAJIE'
 global.wm3 = '© AKIRAJIE'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
