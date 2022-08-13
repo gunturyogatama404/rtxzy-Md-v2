@@ -1,13 +1,13 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['62859106529176'] 
+global.owner = ['6285155081167'] 
 global.mods = ['6285155081167'] 
 global.prems = ['6285155081167'] 
 
 //『 Info Owner 』 //
 global.nameowner = '⫹⫺ Owner'
-global.numberowner = '62859106529176'
+global.numberowner = '6285155081167'
 global.instagram = 'https://instagram.com/febriadi404'
 global.github = 'https://github.com/gunturyogatama404'
 global.dana = ''
